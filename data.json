@@ -1,0 +1,26 @@
+{
+    "movies": [
+      {
+        "title": "Inception",
+        "year": "2010",
+        "genre": "Science Fiction",
+        "director": "Christopher Nolan",
+        "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg"
+      },
+      {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "genre": "Action",
+        "director": "Christopher Nolan",
+        "poster": "https://image.tmdb.org/t/p/w200/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg"
+      },
+      {
+        "title": "Interstellar",
+        "year": "2014",
+        "genre": "Science Fiction",
+        "director": "Christopher Nolan",
+        "poster": "https://image.tmdb.org/t/p/w200/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg"
+      }
+    ]
+  }
+  
